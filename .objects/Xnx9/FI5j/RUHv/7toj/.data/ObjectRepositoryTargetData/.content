@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TMClFe41-k2V9tzrmRBn5w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.sahibinden.com/kategori/emlak-konut" DesignTimeRectangle="8, 181, 0, 0" DesignTimeScaleFactor="1" FullSelectorArgument="[string.Format(&quot;&lt;webctrl parentid='searchForm' tag='DIV' innertext='{0}' idx='*' /&gt;&quot;, str_ilce)]" FuzzySelectorArgument="&lt;webctrl parentid='searchForm' tag='DIV' innertext='İlçeİlçeAdalarArnavutköyAtaşehirAvcılarBağcılarBahçelievlerBakırköyBaşakşehirBayrampaşaBeşiktaşBeykozBeylikdüzüBeyoğluBüyükçekmeceÇatalcaÇekmeköyEsenlerEsenyurtEyüpsultanFatihGaziosmanpaşaGüngörenKadıköyKağıthaneKartalKüçükçekmeceMaltepePendikSancaktepeSarıyerŞileSilivriŞişliSultanbeyliSultangaziTuzlaÜmraniyeÜsküdarZeytinburnu' type='' class='sahibindenSelect-holder' aaname='' check:text='İlçeİlçeAdalarArnavutköyAtaşehirAvcılarBağcılarBahçelievlerBakırköyBaşakşehirBayrampaşaBeşiktaşBeykozBeylikdüzüBeyoğluBüyükçekmeceÇatalcaÇekmeköyEsenlerEsenyurtEyüpsultanFatihGaziosmanpaşaGüngörenKadıköyKağıthaneKartalKüçükçekmeceMaltepePendikSancaktepeSarıyerŞileSilivriŞişliSultanbeyliSultangaziTuzlaÜmraniyeÜsküdarZeytinburnu' /&gt;" Guid="12848999-4589-4c2b-bffd-5e9e0c3a9bd4" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.sahibinden.com*' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive" />
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="str_ilce" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

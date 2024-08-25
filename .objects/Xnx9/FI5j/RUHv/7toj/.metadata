@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Click 'İlçeİlçeAdalarArnavutkö…'",
+  "Type": "Element",
+  "Id": "7toj2oPwoESf7s3VI1oNGA",
+  "Reference": "XlGj8z8QFEC65LEz6RUeLg/7toj2oPwoESf7s3VI1oNGA",
+  "ParentRef": "XlGj8z8QFEC65LEz6RUeLg/RUHvEWhmN0Wu5HKPRvMhmw",
+  "Created": "2024-08-20T12:18:16.0555611Z",
+  "Updated": "2024-08-20T12:18:16.0555611Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
